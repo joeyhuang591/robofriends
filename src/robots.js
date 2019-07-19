@@ -2,31 +2,31 @@ export const robots = [
     {
         id: 1,
         name: 'Jimmy Page',
-        username: 'Bret',
+        username: 'JimmyPage',
         email: 'Sincere@april.biz'
     },
     {
         id: 2,
         name: 'Randy Rhoad',
-        username: 'Bret',
+        username: 'RandyRhoad',
         email: 'Sincere@april.biz'
     },
     {
         id: 3,
-        name: 'Leanne Graham',
-        username: 'Bret',
+        name: 'Van Halen',
+        username: 'VanHalen',
         email: 'Sincere@april.biz'
     },
     {
         id: 4,
-        name: 'Leanne Graham',
-        username: 'Bret',
+        name: 'Eric Clapton',
+        username: 'Eric Clapton',
         email: 'Sincere@april.biz'
     },
     {
         id: 5,
-        name: 'Leanne Graham',
-        username: 'Bret',
+        name: 'Eric Johnson',
+        username: 'EricJohnson',
         email: 'Sincere@april.biz'
     }
 
